@@ -6,7 +6,7 @@
 <p>Ubuntu 22.04</p>
 
 
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/andrew890074/Whaticket-Saas-Completo.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
+<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf yugoticket && sudo git clone https://github.com/yurigoes/Whaticket-Saas-Completo.git && cd yugoticket && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
 
 
 
